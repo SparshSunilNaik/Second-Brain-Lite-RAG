@@ -387,10 +387,6 @@ query → embed → search_top_k → filter_by_similarity → build_context → 
 
 This is a learning/portfolio project. Feel free to fork and extend!
 
-## License
-
-MIT License - use freely, attribution appreciated.
-
 ## Acknowledgments
 
 Built as a demonstration of production-quality RAG system design, emphasizing:
@@ -402,7 +398,3 @@ Built as a demonstration of production-quality RAG system design, emphasizing:
 ---
 
 **Built with**: Python, OpenAI API, FAISS, pytest
-
-**Author**: A senior ML + backend engineer exploring RAG systems
-
-**Last updated**: February 2026
